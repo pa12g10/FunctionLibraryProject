@@ -17,7 +17,7 @@ namespace tests
 			Engine add(a, b);
 			result = add.add();
 			std::cout << result << std::endl;
-			Assert::AreEqual(result, a+b);
+			Assert::AreEqual(result,a+b);
 		}
 
 		TEST_METHOD(Multiply)

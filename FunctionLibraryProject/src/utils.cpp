@@ -1,10 +1,4 @@
-#include <iostream>
+#pragma once 
+#include "utils.h"
 
 
-class Function {
-
-
-
-
-
-};
